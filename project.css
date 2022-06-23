@@ -1,0 +1,666 @@
+/* body {
+  background-color: aliceblue;
+} */
+/* .founder {
+  position: relative;
+  width: 1440px;
+  height:5197px;
+  background-color:#FFFFFF;
+} */
+.backg {
+  position: relative;
+  width: 1442px;
+  height: 730px;
+  left:-1px;
+  top:4px;
+}
+.back {
+  /* Eduvid */
+  position: absolute;
+  width: 90px;
+  height: 36px;
+  left: 130px;
+  top: 37px;
+  /* identical to box height */
+  letter-spacing: 0.02em;
+}
+.first {
+  position: relative;
+  width: auto;
+  height: auto;
+  left: auto;
+  top: auto;
+}
+.Catergories {
+  /* catergories */
+  position: absolute;
+  width:72px;
+  height:19px;
+  left:550px;
+  top: 44px;
+
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size:14px;
+  line-height:19px;
+  /* identical to box height */
+  color:white;
+  background-color: black;
+}
+.Live{
+  text-decoration: none;
+  color: white;
+  position: absolute;
+  width:99px;
+  height:29px;
+  left:650px;
+  top: 44px;
+}
+.Contact{
+  position: absolute;
+  width:82px;
+  height:29px;
+  left:750px;
+  top: 44px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.Log{
+  position: absolute;
+  width:97px;
+  height:37px;
+  left:1121px;
+  top: 35px;
+  background-color: green;
+  border-radius: 15px;
+}
+.Sign{
+  position: absolute;
+  width:52px;
+  height:19px;
+  left:1260px;
+  top: 44px;
+  text-decoration: none;
+  color: #FFFFFF;
+  line-height: 19px;
+  font-size: 14px;
+  font-weight: 600;
+}
+ .unlimit{
+   position: absolute;
+   color:#FFFFFF;
+   width:476px;
+   height:177px;
+   top: 168px;
+   left: 130px;
+   font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 43px;
+    line-height: 59px;}
+    .edup{
+    position: absolute;
+    width: 476px;
+    height: 54px;
+    left: 130px;
+    top: 360px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #FFFFFF;
+  }
+  .put{
+    position:absolute;
+    width: 424px;
+    height: 26px;
+    left: 130px;
+    color: #FFFFFF;
+    top:450px; 
+    border-radius: 8px;
+    box-shadow: 10px;
+  }
+  .blo{
+  position: absolute;
+  width:124px;
+  height:36px;
+  left:560px;
+  top: 450px;
+  background-color: green;
+  border-radius: 8px;
+  }
+  .circle{
+    position: absolute;
+    width: 608px;
+    height: 468px;
+    left: 704px;
+    top: 155px;
+  }
+  .Top{
+    position: absolute;
+    width: 224px;
+    height: 41px;
+    left: 129px;
+    top: 734px;
+    color:black;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px;
+    /* identical to box height */
+    letter-spacing: 0.02em;
+  }
+  .dot{
+    position:absolute;
+    width: 90px;
+    left: 132px;
+    top: 799px;
+    border: 0px solid #0fb820;
+  }
+  .choosep{
+    position: absolute;
+    width: 989px;
+    height: 37px;
+    left: 132px;
+    top: 800px;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 37px;
+  }
+  .fra3{
+    position:absolute;
+    width: 274px;
+    height: 325px;
+    background:#FFFFFF;
+    top: 902px;
+    left: 132px;
+  }
+  .fra1{
+    position:absolute;
+    width: 274px;
+    height: 325px;
+    background: #FFFFFF;
+    top: 902px;
+    left: 434px;
+  }
+  .fra2{
+    position: absolute;
+    width:274;
+    height:325px;
+    background: #FFFFFF;
+    left: 737px;
+    top: 902px;
+  }
+  .fra4{
+    position: absolute;
+    width: 274px;
+    height: 325px;
+    background: #FFFFFF;
+    left:1038px;
+    top: 902px;
+  }
+  .fourth{
+    background-color: black;
+    width: 1364px;
+    height: 767px;
+    top: 500px;
+    position: relative;
+  }
+  .start{
+    position: relative;
+    color: rgb(5, 206, 5);
+    width: 550px;
+    height: 27px;
+    left: 445px;
+    top: 28px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .learn{
+    position: relative;
+    width: 897px;
+    height: 92px;
+    left: 271px;
+    top: 30px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 46px;
+    /* or 144% */
+
+    text-align: center;
+
+    color: #FCFCFC;
+
+  }
+  .one{
+    position: relative;
+    width: 1180px;
+    height: 498px;
+    left: 130px;
+    top: 50px;
+  }
+  .aria{
+    background-color:whitesmoke;
+    position: relative;
+    width: 1364px;
+    height: 955px;
+    left: 0px;
+    bottom: -479px;
+  }
+  
+  .twenty{
+    position: relative;
+    width: 1250px;
+    height: 700px;
+    top: -60px;
+    left: 70px;
+    /* identical to box height */
+    background: linear-gradient(0deg, rgba(32, 32, 32, 0.76), rgba(32, 32, 32, 0.76)), url();
+    border-radius: 20px;
+    letter-spacing: 0.02em;
+  }
+  .streams{
+    position: relative;
+    width:182px;
+    height: 41px;
+    left: 130px;
+    top: 100px;
+  }
+  .sdot{
+    position: relative;
+    width: 90px;
+    height: 3px;
+    left: 130px;
+    top: 70px;
+  }
+  .view{
+    position: relative;
+    width: 77px;
+    height: 27px;
+    color: red;
+    left: 310px;
+    top: 16px;
+  }
+  .thirty{
+    position: relative;
+    left: 20px;
+    top: 70px;
+  }
+  .tor{
+    position: relative;
+    background: red;
+    width: 30px;
+    top: -720px;
+    right: 90px;
+  }
+  .ve{
+    position: relative;
+    width: 70px;
+    height: 27px;
+    bottom: 720px;
+    right: 80px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 27px;
+    /* identical to box height, or 90% */
+    text-align: center;
+    letter-spacing: -0.01em
+  }
+  .hea{
+    position: relative;
+    width: 100px;
+    height: 30px;
+    color:#FFFFFF;
+    bottom: 700px;
+    left: 184px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 27px;
+    /* identical to box height, or 90% */
+    text-align: center;
+    letter-spacing: -0.01em;
+  }
+  .sto{
+    position: relative;
+    width: 308px;
+    height: 27px;
+    color:#FFFFFF;
+    bottom: 710px;
+    left: 164px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 27px;
+    /* identical to box height, or 64% */
+    text-align: center;
+    letter-spacing: -0.01em;
+  }
+  .dr{
+    position: relative;
+    bottom: 708px;
+    color: #FFFFFF;
+    left: 190px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    /* identical to box height, or 117% */
+    text-align: left;
+    letter-spacing: -0.01em;
+  }
+  .sixty{
+    position: relative;
+    width: 50px;
+    height: 176px;
+    bottom: 729px;
+    left: 1258px;
+  }
+  .seventy{
+    position: relative;
+    width: 187px;
+    height: 39px;
+    background:transparent;
+    bottom: 500px;
+    left: 80px;
+  }
+  .onetwo{
+    position: relative;
+    width: 700px;
+    bottom: 510px;
+    left: 170px;
+    height: 14px;
+  }
+  .nine{
+    position: relative;
+    width: 110px;
+    bottom:400px;
+    left:300px;
+    border-radius: 10px;
+    background: transparent;
+  }
+  .fifth{
+    position: relative;
+    background-color:white;
+    top:453px;
+    width: 1359px;
+    height: 600px;
+  }
+  .trend{
+    position: relative;
+    width: 134px;
+    height: 41px;
+    left: 128px;
+    top: 30px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 41px;
+    /* identical to box height */
+    letter-spacing: 0.02em;
+    color: #202020;
+  }
+  .dough{
+    position: relative;
+    left: 130px;
+    width: 80px;
+  }
+  .all{
+    position: relative;
+    color: red;
+    width: 77px;
+    left: 265px;
+    top: -66px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 0.02em;
+  }
+  .ninety{
+    position: relative;
+    width: 251px;
+    height: 405px;
+    left: 300px;
+  }
+  .zero{
+    position: relative;
+    left: 250px;
+  }
+  .hum{
+    position: relative;
+    left: 200px;
+  }
+  .ten{
+    position: relative;
+    left: 150px;
+  }
+  .sixth{
+    position: relative;
+    background:#202020;
+    top: 500px;
+    height: 800px;
+  }
+  .up{
+    position: relative;
+    left:0px;
+    width: 50px;
+  }
+  .von{
+    position: relative;
+    left: 650px;
+  }
+  .any{
+    position: relative;
+    width: 479px;
+    height: 141px;
+    left: 132px;
+    color: #FFFFFF;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 39px;
+    line-height: 47px;
+    /* or 121% */
+    letter-spacing: 0.02em;
+  }
+  .vec{
+    position: relative;
+    bottom: 400px;
+    right: 500px;
+  }
+  .desk{
+    position: relative;
+    bottom: 470px;
+    color:white;
+    left: 170px;
+    top: -450px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+    /* identical to box height, or 195% */
+    letter-spacing: 0.02em
+  }
+  .ec{
+    position: relative;
+    bottom: 450px;
+    left: 135px;
+  }
+  .off{
+    position: relative;
+    bottom: 500px;
+    color: #FFFFFF;
+    left: 170px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+    /* identical to box height, or 195% */
+    letter-spacing: 0.02em;
+  }
+  .tr{
+    position: relative;
+    bottom: 500px;
+    left: 135px;
+  }
+  .in{
+    position: relative;
+    bottom: 550px;
+    left: 170px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+    /* identical to box height, or 195% */
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+  }
+  .at{
+    position: relative;
+    color: #FFFFFF;
+    background-color: #0fb820;
+    width: 271px;
+    height: 33px;
+    border-color:transparent;
+    bottom: 500px;
+    left: 132px;
+  }
+  .member{
+    position:relative;
+    width: 870px;
+    height: 28px;
+    left: 280px;
+    top: 600px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+    /* identical to box height, or 195% */
+    letter-spacing: 0.02em;
+    color: black;
+  }
+  .ress{
+    position: relative;
+    width: 324px;
+    top: 600px;
+    left: 403px;
+    height: 30px;
+    background-color:white;
+    color: #202020;
+  }
+  .art{
+    position: relative;
+    top: 600px;
+    left: 398px;
+    width: 100px;
+    height: 35px;
+    background-color: #0fb820;
+    color: #FFFFFF;
+  }
+.foot{
+  position: relative;
+  width: 1540px;
+  height: 175px;
+  top: 700px;
+  background-color:#202020;
+}
+.lastedu{
+  position:absolute;
+  width: 90px;
+  height: 36px;
+  left: 129px;
+}
+.logy{
+  position:absolute;
+  width: 76px;
+  height: 54px;
+  left: 476px;
+  color: #FFFFFF;
+}
+.cop{
+  position: absolute;
+  left: 764px;
+  width: 200px;
+  height: 59px;
+  color: #FFFFFF;
+}
+.news{
+  position: absolute;
+  width: 500px;
+  height: 27px;
+  left: 969px;
+  bottom: 125px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 39px;
+  /* identical to box height, or 195% */
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+}
+.mail{
+  position: absolute;
+  left: 971px;
+  bottom: 110px;
+  width: 300px;
+  height: 24px;
+}
+.cribe{
+  position: absolute;
+  left: 1279px;
+  bottom: 110px;
+  width: 137px;
+  height: 30px;
+  background-color: #0fb820;
+  color: #FFFFFF;
+}
+.hr{
+  position: relative;
+  bottom: -120px;
+  width: 1300px;
+}
+.erms{
+  position: relative;
+  left: 1055px;
+  bottom: -110px;
+  width: 313px;
+  color: #FFFFFF;
+}
+.ink{
+  position: relative;
+  left: 1389px;
+  bottom: -80px;
+}
+.twi{
+  position: relative;
+  left: 1319px;
+  bottom: -80px;
+}
+.face{
+  position: relative;
+  left: 1309px;
+  bottom: -80px;
+}
